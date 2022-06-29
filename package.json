@@ -6,6 +6,12 @@
     "start": "func start",
     "test": "echo \"No tests yet...\""
   },
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+    "@azure/msal-node": "^1.10.0",
+    "@microsoft/microsoft-graph-client": "^3.0.2",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "isomorphic-fetch": "^3.0.0",
+    "yargs": "^17.5.1"
+  }
 }
